@@ -2,7 +2,7 @@
 ## Full Stack Developer
 Tallahassee, Fl. 32310
 
-(850) 270-3180 . [TripKendall@Gmail.com](tripkendall@gmail)
+(850) 270-3180 . [tripkendall@gmail.com](mailto:tripkendall@gmail)
 
 I write code and manage modern dev stacks. I like VSCode, Git,
 NodeExpress, Vue, and JetBrains Mono.I code proficiently in Python and
