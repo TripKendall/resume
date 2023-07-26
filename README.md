@@ -5,6 +5,11 @@ Tallahassee, Fl. 32310
 
 (850) 270-3180 . [TripKendall@Gmail.com](TripKendall@gmail)
 
+I write code and manage modern dev stacks. I like VSCode, Git,
+NodeExpress, Vue, and JetBrains Mono.I code proficiently in Python and
+Javascript. I have certifications in Python, Node, Cryptography, Sec, etc.
+I'm a Linux native, HTML / CSS are second nature to me.
+
 ### EXPERIENCE
 
 AtMorph — Senior Developer​NodeJs
@@ -41,9 +46,3 @@ PostgreSQL, and Javascript..
 ### EDUCATION
 - South Georgia College
 - Pineland Academy
-
-### ABOUT ME
-I write code and manage modern dev stacks. I like VSCode, Git,
-NodeExpress, Vue, and JetBrains Mono.I code proficiently in Python and
-Javascript. I have certifications in Python, Node, Cryptography, Sec, etc.
-I'm a Linux native, HTML / CSS are second nature to me.
