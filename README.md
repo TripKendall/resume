@@ -39,8 +39,8 @@ PostgreSQL, and Javascript..
 - Python Django Udemy
 
 ### EDUCATION
-South Georgia College
-Pineland Academy
+- South Georgia College
+- Pineland Academy
 
 ### ABOUT ME
 I write code and manage modern dev stacks. I like VSCode, Git,
