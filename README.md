@@ -1,6 +1,5 @@
 # James Kendall
 ## Full Stack Developer
-3376 Whipporwill Dr.
 Tallahassee, Fl. 32310
 
 (850) 270-3180 . [TripKendall@Gmail.com](TripKendall@gmail)
