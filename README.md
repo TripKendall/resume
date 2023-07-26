@@ -3,8 +3,7 @@
 3376 Whipporwill Dr.
 Tallahassee, Fl. 32310
 
-(850) 270-3180
-[mailto:tripkendall@gmail.com](TripKendall@gmail.com)
+(850) 270-3180 . [mailto:tripkendall@gmail.com](TripKendall@gmail.com)
 
 ### EXPERIENCE
 
